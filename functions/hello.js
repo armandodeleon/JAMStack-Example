@@ -1,5 +1,5 @@
 exports.handler = async () => ({
     statusCode: 200,
-    boy: "Hello Mexico"
+    body: "Hello from the beautiful Mexico"
 });
 
